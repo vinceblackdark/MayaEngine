@@ -1,6 +1,0 @@
-E:\2. Game\MayaEngine ClassLibrary\obj\Debug\MayaEngine ClassLibrary.csproj.AssemblyReference.cache
-E:\2. Game\MayaEngine ClassLibrary\obj\Debug\MayaEngine ClassLibrary.csproj.CoreCompileInputs.cache
-E:\2. Game\MayaEngine ClassLibrary\bin\Debug\MayaEngine ClassLibrary.dll
-E:\2. Game\MayaEngine ClassLibrary\bin\Debug\MayaEngine ClassLibrary.pdb
-E:\2. Game\MayaEngine ClassLibrary\obj\Debug\MayaEngine ClassLibrary.dll
-E:\2. Game\MayaEngine ClassLibrary\obj\Debug\MayaEngine ClassLibrary.pdb
